@@ -1,10 +1,3 @@
-/*
-	https://github.com/Brooooooklyn?tab=repositories
-
-	https://leetcode.com/problems/median-of-two-sorted-arrays/
-
-	https://onecompiler.com/javascript/3yttuyjt3
-*/
 
 const tests = [
 	{
